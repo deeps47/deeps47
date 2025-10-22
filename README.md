@@ -1,5 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Deepanshu Yadav</h1>
 
+<h3 align="center"> Cybersecurity Analyst | SOC & Incident Response | Red Team | VAPT | Offensive Security</h3>
+
+---
+
+- 🏢 **Cybersecurity Analyst** at a Big 4 Firm – Serving a Fortune 500 client in SOC & incident response.
+- 📚 **Learning:** Expanding skills in web app pentesting, network exploitation, and malware analysis.
+- 🚀 **Goals:** Transiton into offensive security roles like pentesting, red teaming, and malware research.
+- ⚡ **Outside work:** Bug bounties, CTFs, cybersecurity research, Gaming
+- 📫 **Reach me at:**
 <!--
 **deeps47/deeps47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
